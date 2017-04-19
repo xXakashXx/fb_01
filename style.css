@@ -1,0 +1,164 @@
+body{
+	margin:0;
+	padding:0;
+
+}
+.header{
+		height: 90px;
+	background-color:#3b5998;
+	box-sizing: border-box;
+}
+.logo{
+		width: 57%;
+	height: 90px;
+	float: left;
+	box-sizing: border-box;
+
+}
+.logo h1{
+	color: white;
+	font-family: sans-serif;
+	padding-left: 20px;
+	font-size: 45px;
+	padding-bottom: 10px;
+
+}
+.login{
+	float: right;
+	height: 90px;
+	width: 43%;
+	box-sizing: border-box;
+}
+.email{
+	display: inline-block;
+	padding-top: 15px;
+	padding-right: 10px;
+}
+.login{
+	color: white;
+	font-family: sans-serif;
+	font-size: 13px;
+
+}
+.body{
+	
+	height: 100vh;
+	box-sizing: border-box;
+}
+.pic{
+	width: 68%
+	height:100vh;
+	float: left;
+	font-size: 10px;
+}
+.pic p{
+	font-size: 50px;
+}
+.info{
+	width: 45%;
+	height: 100vh;
+	font-family:sans-serif;
+	
+	box-sizing: border-box;
+	float: right;
+}
+.pic p{
+	font-size: 20px;
+	padding-bottom: 40px;
+	padding-top: 15px;
+}
+.pic img{
+	padding-left: 12px;
+}
+.info input{
+	padding-right: 10px;
+	padding-bottom: 15px;
+}
+.emails{
+	padding-top: 20px;
+}
+.passwords{
+	padding-top: 20px;
+}
+.names{
+	padding-top: 10px;
+	padding-right: 10px;
+}
+
+
+.stname{
+	display: inline-block;
+	padding-right: 15px;
+	font-family: sans-serif;
+}
+.select{
+	padding-left: 20px;
+	width: 10px;
+}
+.bday{
+	display: inline-block;
+	padding-right: 10px;
+	padding-bottom: 30px;
+	font-family: sans-serif;
+}
+.policy{
+	font-size: 11px;
+	color: grey;
+	width: 80%;
+	padding-top: 8px;
+	padding-bottom: 25px;
+	font-family: sans-serif;
+}
+.ca{
+	padding-bottom: 10px;
+
+}
+
+.ca value{
+	font color: white;
+}
+.celeb{
+	border-top: 1px solid grey;
+	font-family: sans-serif;
+	
+}
+.footer{
+	border-top: 1px solid grey;
+	height: 150px;
+}
+.language{
+	padding-top: 10px;
+	border-bottom: 1px solid grey;
+	font-family: sans-serif;
+	padding-bottom: 10px;
+}
+.footer p{
+	color:grey;
+	font-size: 9px;
+	font-family: sans-serif;
+}
+.footer table{
+	font-size: 12px;
+	width:95%;
+	font-family: sans-serif;
+	padding-top: 20px;
+	padding-bottom: 15px;
+}
+.emails input{
+	width: 82.5%;
+}
+.passwords input{
+	width: 82.5%
+}
+.ca input{
+	background: green;
+	width: 40%;
+	padding-top: 10px;
+	font-size: 20px;
+	color: white;
+}
+.bday select{
+	width:60px;
+	height: 30px;
+	}
+}
